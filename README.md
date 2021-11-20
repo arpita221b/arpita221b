@@ -3,7 +3,7 @@
 
 
 
-<h2> About Me </h2>
+<h3> About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at NIT Hamirpur
 
@@ -13,8 +13,8 @@
 
 <br/>
 
-<h2>Connect With Me</h2>
-<hr>
+<h3>Connect With Me</h3>
+
 
 
 <a href="https://www.linkedin.com/in/arpita-naval-395a0b19b/" target="blank">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -23,7 +23,7 @@
 <br/>
 
 
-<h2> 🛠 &nbsp;Technologies and Tools</h2>
+<h3> 🛠 &nbsp;Technologies and Tools</h3>
 <hr>
 
 <!-- <div align="center">  -->
