@@ -5,8 +5,6 @@
 
 <h3> About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at NIT Hamirpur.
-
 - 🤔 &nbsp; I enjoy exploring new technologies and developing web applications.
 - 🌱 &nbsp; I'm currently learning React and Node.js.
 - ✍️ &nbsp; Apart from this I have interest in the field of space science.
